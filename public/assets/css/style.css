@@ -1,0 +1,43 @@
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.burgerContainer {
+
+  background-color: grey;
+
+
+}
+
+.center { 
+
+  text-align: center;
+  margin: auto;
+  width: 50%;
+
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: white;
+}
+
+.form-group {
+  margin-bottom: 5px;
+  margin: auto;
+  width: 40%;
+}
